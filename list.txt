@@ -1,5 +1,6 @@
-1. Berries
+1. Almonds
 2. Cereal
 3. Meat
 4. Bran Flakes
 5. Juice
+6. Berries
